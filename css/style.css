@@ -1,0 +1,14 @@
+body {
+  background: #ead8c0;
+}
+h1,
+p {
+  text-align: center;
+}
+a {
+  color: #566c84;
+}
+
+img {
+  max-width: 500px;
+}
